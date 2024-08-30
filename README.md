@@ -27,4 +27,4 @@ To run the app locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/birthday-calendar.git
+   git clone https://github.com/divyap3009/birthday-calendar.git
